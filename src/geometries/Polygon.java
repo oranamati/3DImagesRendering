@@ -9,7 +9,6 @@ import primitives.Point3D;
 import primitives.Ray;
 import primitives.Vector;
 /**
- * @author Tamar Gavrieli 322533977 and Odeya Sadoun 212380406
  * Class for Polygon
  */
 public class Polygon extends Geometry
